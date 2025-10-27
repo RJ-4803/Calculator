@@ -37,6 +37,9 @@
     background-color: rgb(237, 89, 30);
     color: white;
 }
+#head{
+    text-align: center;
+}
 form #output {
     display: flex;
     justify-content: flex-end;
